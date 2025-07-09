@@ -14,7 +14,6 @@ Build*/
 Toolchain/Tarballs
 Toolchain/Build
 Toolchain/Local
-.vscode
 .vs
 .ccls-cache
 compile_commands.json
@@ -61,3 +60,4 @@ Meta/CMake/vcpkg/user-variables.cmake
 .DS_Store
 
 __pycache__
+.vscode/
